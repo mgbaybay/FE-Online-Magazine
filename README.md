@@ -24,5 +24,4 @@
 | Version | Creators | Date | Remark/s |
 |-----|---------|---------| ---------|
 | V1 | MG | July 16 2021 | original version|
-| V2 | MG | September XX 2021 | added bootstrap for responsiveness, modified contents in various sections |
 
